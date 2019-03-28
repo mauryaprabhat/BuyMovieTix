@@ -1,0 +1,14 @@
+C:\Prabhat\MicrosoftTrainingPractice\BuyTix.Api\bin\Debug\netcoreapp2.2\BuyTix.Api.deps.json
+C:\Prabhat\MicrosoftTrainingPractice\BuyTix.Api\bin\Debug\netcoreapp2.2\BuyTix.Api.runtimeconfig.json
+C:\Prabhat\MicrosoftTrainingPractice\BuyTix.Api\bin\Debug\netcoreapp2.2\BuyTix.Api.runtimeconfig.dev.json
+C:\Prabhat\MicrosoftTrainingPractice\BuyTix.Api\bin\Debug\netcoreapp2.2\BuyTix.Api.dll
+C:\Prabhat\MicrosoftTrainingPractice\BuyTix.Api\bin\Debug\netcoreapp2.2\BuyTix.Api.pdb
+C:\Prabhat\MicrosoftTrainingPractice\BuyTix.Api\obj\Debug\netcoreapp2.2\BuyTix.Api.csprojAssemblyReference.cache
+C:\Prabhat\MicrosoftTrainingPractice\BuyTix.Api\obj\Debug\netcoreapp2.2\BuyTix.Api.csproj.CoreCompileInputs.cache
+C:\Prabhat\MicrosoftTrainingPractice\BuyTix.Api\obj\Debug\netcoreapp2.2\BuyTix.Api.RazorAssemblyInfo.cache
+C:\Prabhat\MicrosoftTrainingPractice\BuyTix.Api\obj\Debug\netcoreapp2.2\BuyTix.Api.RazorAssemblyInfo.cs
+C:\Prabhat\MicrosoftTrainingPractice\BuyTix.Api\obj\Debug\netcoreapp2.2\BuyTix.Api.AssemblyInfoInputs.cache
+C:\Prabhat\MicrosoftTrainingPractice\BuyTix.Api\obj\Debug\netcoreapp2.2\BuyTix.Api.AssemblyInfo.cs
+C:\Prabhat\MicrosoftTrainingPractice\BuyTix.Api\obj\Debug\netcoreapp2.2\BuyTix.Api.RazorTargetAssemblyInfo.cache
+C:\Prabhat\MicrosoftTrainingPractice\BuyTix.Api\obj\Debug\netcoreapp2.2\BuyTix.Api.dll
+C:\Prabhat\MicrosoftTrainingPractice\BuyTix.Api\obj\Debug\netcoreapp2.2\BuyTix.Api.pdb
